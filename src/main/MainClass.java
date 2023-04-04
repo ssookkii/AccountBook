@@ -22,9 +22,11 @@ public class MainClass {
 				System.out.println("4. 수입/지출 보기");
 				System.out.println("5. 용도별 보기");
 				System.out.println("6. 가계부 전체 보기");
-				System.out.println("7. 종료");
+				System.out.println("7. 종료....");
 					
+				
 				System.out.print(">> ");
+				
 				int choice = sc.nextInt();
 					
 				switch(choice) {
